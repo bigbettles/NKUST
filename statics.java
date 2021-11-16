@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class statics {
+public class statics {
+        public static void main(String[] args){
+            range
+        }
 }
