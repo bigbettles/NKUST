@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class jjjj {
+public class jjjj {
+    String
 }
